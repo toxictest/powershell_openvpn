@@ -5,4 +5,10 @@ https://github.com/OpenVPN/easy-rsa.git
 
 Now run the script 
 
-./powershell_openvpn.ps1
+./powershell_ovpn.ps1
+
+when the setup client.ovpn we require the some files where we get 
+
+now run the file 
+
+./powershell_vpnfile.ps1
