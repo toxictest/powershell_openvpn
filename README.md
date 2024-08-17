@@ -3,6 +3,31 @@ Firstly download Easy-rsa key from the github and sent the desired path to the s
 
 https://github.com/OpenVPN/easy-rsa.git
 
+# powershell
+
+first run 
+```
+win + R Powershell  ctrl+enter
+```
+```
+mv /path/to/step.ps1 /openvpn/easy-rsa
+```
+now run 
+```
+./power.ps1
+```
+You got a shell and check pwd
+
+```
+./step.ps1
+```
+exit shell
+
+```
+./power2.ps1
+```
+
+
 Now run the script 
 ```
 ./powershell_ovpn.ps1
